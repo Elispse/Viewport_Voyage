@@ -1,4 +1,3 @@
-repository "Viewport-Voyage@Elispse@cloud"
+rep "Viewport-Voyage@Elispse@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"      
